@@ -1,0 +1,8 @@
+<!--
+<img [src]="coracaoVazio" />
+<img [src]="coracaoVazio" />
+<img [src]="coracaoVazio" />
+-->
+
+<!--diretiva ngFor para tornar aplicação mais dinamica -->
+<img *ngFor="let coracao of coracoes" [src]="coracao.exibeCoracao()" />
