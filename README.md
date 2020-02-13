@@ -1,3 +1,7 @@
+<h1 align="center">
+<img alt="Language earning" title="#delicinha" src="App.png" />
+</h1>
+
 # App1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
@@ -25,3 +29,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## 🤔 How to contribute
+
+- Fork the repository;
+- Create a branch with your feature: `git checkout -b minha-feature`;
+- Commit your changes: `git commit -m 'feat: Minha nova feature'`;
+- Push to your branch: `git push origin minha-feature`.
+
+After the merge of your pull request is done, you can delete your branch.
